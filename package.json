@@ -1,0 +1,23 @@
+{
+  "name": "require-graphql-schema",
+  "version": "0.0.1",
+  "description": "Require and parse GraphQL Schema definitions in your codebase.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest -w"
+  },
+  "jest": {
+    "automock": false
+  },
+  "keywords": ["graphql"],
+  "author": "Josh Black <joshblack@us.ibm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "graphql": "^0.7.0"
+  },
+  "devDependencies": {
+    "jest": "^14.1.0"
+  }
+}
