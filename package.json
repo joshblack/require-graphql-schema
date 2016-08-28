@@ -1,6 +1,6 @@
 {
   "name": "require-graphql-schema",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Require and parse GraphQL Schema definitions in your codebase.",
   "main": "src/index.js",
   "repository": "https://github.com/joshblack/require-graphql-schema",
