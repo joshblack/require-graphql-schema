@@ -12,7 +12,9 @@
   "jest": {
     "automock": false
   },
-  "keywords": ["graphql"],
+  "keywords": [
+    "graphql"
+  ],
   "author": "Josh Black <joshblack@us.ibm.com>",
   "license": "MIT",
   "dependencies": {
