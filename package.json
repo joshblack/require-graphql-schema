@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "Require and parse GraphQL Schema definitions in your codebase.",
   "main": "src/index.js",
+  "repository": "https://github.com/joshblack/require-graphql-schema",
+  "bugs": "https://github.com/joshblack/require-graphql-schema/issues",
   "scripts": {
     "test": "jest",
     "test:watch": "jest -w"
